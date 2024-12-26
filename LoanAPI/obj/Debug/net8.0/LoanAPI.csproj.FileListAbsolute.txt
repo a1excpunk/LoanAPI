@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\LoanAPI\LoanAPI\obj\Debug\net8.0\LoanAPI.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LoanAPI\LoanAPI\obj\Debug\net8.0\LoanAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LoanAPI\LoanAPI\obj\Debug\net8.0\LoanAPI.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LoanAPI\LoanAPI\obj\Debug\net8.0\LoanAPI.AssemblyInfo.cs
+C:\Users\user\source\repos\LoanAPI\LoanAPI\obj\Debug\net8.0\LoanAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LoanAPI\LoanAPI\obj\Debug\net8.0\LoanAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\LoanAPI\LoanAPI\obj\Debug\net8.0\LoanAPI.MvcApplicationPartsAssemblyInfo.cache
